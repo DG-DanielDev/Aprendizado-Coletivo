@@ -72,7 +72,6 @@ _O sinal de " * " significa que eu recomendo fortemente o site porque já estude
 | [*W3School](https://www.w3schools.com/) | **Artigos e exercícios excelentes** | HTML e CSS | JavaScript | Referências | Artigos | Tutoriais | Exercícios e quizes |
 | [*Cursa](https://cursa.app/pt) | **Cursos gratuitos** | TI e Software | Administração e Negócios | Idiomas | Saúde | Vestibulares | Musicais |
 | [*DevDocs](https://devdocs.io) | **Documentação rica** | Documentação de linguagens | Documentação JDK | Documentação JavaScript | Documentação HTML e CSS | Documentação Python | Documentação C, C++ e C# |
-|
 
 
 ## Canais no Youtube (tech)
