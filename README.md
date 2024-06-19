@@ -54,6 +54,7 @@ _O sinal de " * " significa que eu recomendo fortemente o site porque já estude
 | [*Fundação Estudar NaPratica/Fora/Liderança](https://www.estudar.org.br/) | CC50 - CS50 em português | Desenvolvimento Pessoal | Preparatórios | Comunicação Interpessoal | Produtividade | Vagas e Processos de emprego |
 | [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/) | Excel | Power BI | HTML e CSS | JavaScript | Python | Banco de Dados SQL |
 | [DevMedia](https://www.devmedia.com.br/) | Lógica de Programação | HTML e CSS | JavaScript | Frameworks | Banco de Dados | Artigos |
+<<<<<<< HEAD
 | [*Crescer com Google (grow with google)](https://grow.google/intl/pt/) | UX Design | Cybersegurança | Apoio Técnico Google| Gestão de projetos | Marketing Digital | IA |
 | [Google for Developers](https://developers.google.com/learn?hl=pt-br) | Desenvolvimento WEB | Desenvolvimento Mobile | Ciência de dados | Desenvolvimento de Jogos | Redes | IA | 
 | [Trybe](https://www.betrybe.com/) | Lógica de Programação | HTML | CSS | JavaScript | Desenvolvimento Web  | IA |
