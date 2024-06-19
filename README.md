@@ -50,6 +50,7 @@ _- A partir do momento que começar a ler os sites ou canais do youtube citados,
 | [Fundação Estudar NaPratica/Fora/Liderança](https://www.estudar.org.br/) | CC50 - CS50 em português | Desenvolvimento Pessoal | Preparatórios | Comunicação Interpessoal | Produtividade | Vagas e Processos de emprego |
 | [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/) | Excel | Power BI | HTML e CSS | JavaScript | Python | Banco de Dados SQL |
 | [DevMedia](https://www.devmedia.com.br/) | Lógica de Programação | HTML e CSS | JavaScript | Frameworks | Banco de Dados | Artigos |
+| [DevDocs](https://devdocs.io) | Documentação de linguagens | Documentação JDK | Documentação JavaScript | Documentação HTML e CSS | Documentação Python | Documentação C, C++ e C# |
 |...|...|...|...|...|...|...|...|
 
 
