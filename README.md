@@ -13,7 +13,7 @@ _- A partir do momento que começar a ler os sites ou canais do youtube citados,
 
 ## Sites didáticos
 
-### Características: 
+### Características
 
 - Conhecimentos básicos, intermediários ou avançados;
 - Possuem ou não cursos;
@@ -50,49 +50,31 @@ _- A partir do momento que começar a ler os sites ou canais do youtube citados,
 | [Fundação Estudar NaPratica/Fora/Liderança](https://www.estudar.org.br/) | CC50 - CS50 em português | Desenvolvimento Pessoal | Preparatórios | Comunicação Interpessoal | Produtividade | Vagas e Processos de emprego |
 | [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/) | Excel | Power BI | HTML e CSS | JavaScript | Python | Banco de Dados SQL |
 | [DevMedia](https://www.devmedia.com.br/) | Lógica de Programação | HTML e CSS | JavaScript | Frameworks | Banco de Dados | Artigos |
-| [Google Ateliê digital](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Google Skillshop](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Crescer com Google](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Trybe](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Computer Science Master](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Academy AgoraInvestimentos](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Cubo Academy](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Oracle Education](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [HrBrCursos](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [HUAWEI](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Vai Na Web](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Senai Play](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Cambridge English](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [SEBRAE](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [FGV](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Udacity](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Voitto](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Fecap](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Omie Academy](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Unicamp](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [UnaSUS](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [IFRO](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [IFRS](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [GeekForGeeks](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Scribbr](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Mooqueca](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Lumina - UFRGS](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [W3School](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [Cursa](URL do site) | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [DevDocs](https://devdocs.io) | Documentação de linguagens | Documentação JDK | Documentação JavaScript | Documentação HTML e CSS | Documentação Python | Documentação C, C++ e C# |
-|-|-|-|-|-|-|-|-|
+|...|...|...|...|...|...|...|...|
 
 
 ## Canais no Youtube (tech)
 
+Além de ser realmente muito frutífero adquirir novos conhecimentos e habilidades ao acompanhar pessoas da mesma área, também é possível entender novas possibilidades e perspectivas diferentes.
+
 - [Fernanda Kipper](https://www.youtube.com/@kipperdev)
 
-- [Código Fonte Tv]()
+- [Código Fonte Tv](https://www.youtube.com/@codigofontetv)
 
-- [Curso Em Vídeo]()
+- [Curso Em Vídeo](https://www.youtube.com/c/CursoemVideo/)
 
-- [Mano Deyvin]()
+- [Mano Deyvin](https://www.youtube.com/@manodeyvin)
 
-- [Attekita Dev]()
+- [Attekita Dev](https://www.youtube.com/@attekitadev)
 
-- [Fabio Akita]()
+- [Fabio Akita](https://www.youtube.com/@Akitando)
+
+## 🎧Spotify
+
+E que tal alguns podcasts para escutar?
+
+- [Protagonistas Tech](https://open.spotify.com/show/5kBWlcfQXmdHR8By2A9C5X?si=304d8181d99c4725)
+- [Curso em Video Experiente](https://open.spotify.com/show/5KHDGT9PeWAqX7Qstoci1y?si=1346dd5318a24d50)
+- [Olá, Gabs!](https://open.spotify.com/show/094hX276k5lFzM8Ig2xpsl?si=e9cfee2139a54605)
+- [FreeCodeCamp Podcast em Português](https://open.spotify.com/show/70m92At5oht4zY4f87lLEE?si=1195056447c84fbd)
+- [Compilado Código do Fonte TV](https://open.spotify.com/show/7kLgm2CDG4aontuQOluFwb?si=d9298f1e1b434186)
