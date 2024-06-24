@@ -28,7 +28,7 @@ _O sinal de " * " significa que eu recomendo fortemente o site porque já estude
 
 | Plataforma | Conteúdo principal |||||||
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| [*Aprenda Mais .gov](https://aprendamais.mec.gov.br/) | Cursos gratuitos | Ambiente e Saúde | Informática e Comunicação | Infraestrutura | Produção Alimentícia | Segurança | Idiomas, línguas e literaturas | 
+| [*Aprenda Mais .gov](https://aprendamais.mec.gov.br/) | **Cursos gratuitos** | Ambiente e Saúde | Informática e Comunicação | Infraestrutura | Produção Alimentícia | Segurança | Idiomas, línguas e literaturas | 
 | [*Cambridge English](https://www.cambridgeenglish.org/) | **Inglês para estudo** | Atividades de inglês | Teste de inglês | Exame preparatório para certificação de inglês | Dicionário em inglês | Aprendizado em inglês | Blog |
 | [Cisco Networking Academy](https://www.netacad.com/) | **Cursos gratuitos** | Programação | Cybersegurança | Networking (redes) | Ciência de Dados | IoT | Infraestrutura e Automação |
 | [*Cisco Skill For All](https://skillsforall.com/) | **Cursos gratuitos** | Python | cyberSegurança | Networking (redes) | Ciência de dados | IA | Certificações |
@@ -56,7 +56,8 @@ _O sinal de " * " significa que eu recomendo fortemente o site porque já estude
 | [Google for Developers](https://developers.google.com/learn?hl=pt-br) | **Cursos gratuitos** | Desenvolvimento WEB | Desenvolvimento Mobile | Ciência de dados | Desenvolvimento de Jogos | Redes | IA |
 | [*HrBrCursos](https://www.hrbrcursos.com/) | **Cursos gratuitos** | Informática | Redes de Computadores | Endereçamento IP | Sistema Operacional | Montagem e Manuntenção de Hardware | Cybersegurança |
 | [*Harvard CS50](https://cs50.harvard.edu/x/2024/) | **Cursos gratuitos** | Scratch | Algoritmos | Estrutura de Dados | IA | Programação e desenvolvimento | Cybersesgurança |
-| [*Khan Academy](https://pt.khanacademy.org/) | **Estudos fundamentais, médios e acadêmicos** | Física | Matemática | Cybersegurança | Programação | Inglês | Ciencias |
+| [IBM Skillshop](https://skillsbuild.org/pt-br) | **Cursos Gratuitos** | Desenvolvimento WEB | Ciência de Dados | Computação em nuvem | IA | Sustentabilidade | Cybersegurança |
+| [*Khan Academy](https://pt.khanacademy.org/) | **Estudos fundamentais, médios e acadêmicos** | Física | Matemática | Cybersegurança | Programação | Inglês | Ciências |
 | [*Loiane Training](https://loiane.training/curso/phonegap-apache-cordova) | **Cursos gratuitos** | Java Básico & Intermediário | Estrutura de Dados com Java | Angular | CRUD Angular + Spring| Ext JS 4 | Phonegap e Apache Cordova |
 | [Lumina - UFRGS](https://lumina.ufrgs.br/) | **Cursos gratuitos** | Ciências da Saúde e Biológicas | Ciências Exatas e da Terra | Ciências Humanas e Sociais | Linguistica e Letras| Artes | Tecnológicas e Indústria Criativa |
 | [*Microsoft Learn](https://learn.microsoft.com/pt-br/) | **Cursos gratuitos** | Office 365 | Git e Github | Programação | Cybersegurança | Computação em Nuvem com Azure | IA |

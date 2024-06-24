@@ -9,9 +9,11 @@ Você pode contribuir com esse repositório/material de algumas formas. São ela
 2. Apresenta novos materiais, com seus respectivos sites/domínios que podem ser úteis para a finalidade do projeto.
     - O material pode ser tanto canais do youtube, podcasts, livros, sites, blogs, artigos ou quaisquer outras fontes de aprendizado.
 
-3. Faça um pull request após alterar, e adicionar, partes do repositório.
+3. Faça um pull request após alterar, e/ou adicionar, partes do repositório.
 
 4. Compartilha, faça um fork e/ou favorite esse repositório para que mais pessoas possam o encontrar.
+
+5. Encontre erros e apresente-os no github issues. 
 
 
 ## Para acrescentar um site, use o seguinte formato markdown no README.md:
