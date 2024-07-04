@@ -74,6 +74,8 @@ _O sinal de " * " significa que eu recomendo fortemente o site porque já estude
 | [Unicamp - GGTE](https://moocs.ggte.unicamp.br/) | **Cursos gratuitos** | Lógica de Programação | Produção de textos | Programação Android | UX e UI Design | Desenvolvimento Web | Edição e Tratamento de Imagens |
 | [*Vai Na Web](https://vainaweb.com.br/carreiras) | **Cursos síncronos gratuitos** | Desenvolvimento Front-end | Desenvolvimento Mobile | Desenvolvimento Back-end | Ciência de Dados | E-commerce | Blog |
 | [*W3School](https://www.w3schools.com/) | **Artigos e exercícios excelentes** | HTML e CSS | JavaScript | Referências | Artigos | Tutoriais | Exercícios e quizes |
+| [*Estudonauta](https://www.estudonauta.com/) | **Cursos Pagos** | HTML e CSS | Programação | Hardware | Wordpress | Eletrônica | Kotlin |
+| [DataBricks](https://www.databricks.com/learn/training/home) | **Cursos Pagos e gratuitos** | Fundamentos de DataBricks | Banco de Dados | Python | Machine Learning | IA | Arquitetura de Dados |
 
 
 ## Canais no Youtube (tech)
