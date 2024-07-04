@@ -28,53 +28,53 @@ _O sinal de " * " significa que eu recomendo fortemente o site porque já estude
 
 | Plataforma | Conteúdo principal |||||||
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| [*Aprenda Mais .gov](https://aprendamais.mec.gov.br/) | **Cursos gratuitos** | Ambiente e Saúde | Informática e Comunicação | Infraestrutura | Produção Alimentícia | Segurança | Idiomas, línguas e literaturas | 
-| [*Cambridge English](https://www.cambridgeenglish.org/) | **Inglês para estudo** | Atividades de inglês | Teste de inglês | Exame preparatório para certificação de inglês | Dicionário em inglês | Aprendizado em inglês | Blog |
+| *[Aprenda Mais .gov](https://aprendamais.mec.gov.br/) | **Cursos gratuitos** | Ambiente e Saúde | Informática e Comunicação | Infraestrutura | Produção Alimentícia | Segurança | Idiomas, línguas e literaturas | 
+| *[Cambridge English](https://www.cambridgeenglish.org/) | **Inglês para estudo** | Atividades de inglês | Teste de inglês | Exame preparatório para certificação de inglês | Dicionário em inglês | Aprendizado em inglês | Blog |
 | [Cisco Networking Academy](https://www.netacad.com/) | **Cursos gratuitos** | Programação | Cybersegurança | Networking (redes) | Ciência de Dados | IoT | Infraestrutura e Automação |
-| [*Cisco Skill For All](https://skillsforall.com/) | **Cursos gratuitos** | Python | cyberSegurança | Networking (redes) | Ciência de dados | IA | Certificações |
-| [*Codeacademy](https://www.codecademy.com/) | **Cursos gratuitos** | Desenvolvimento Web | Ciência de Dados | Ciência da Computação | Desenvolvimento de Jogos | IA | Desenvolvimento Mobile |
-| [*Computer Science Master](https://www.computersciencemaster.com.br/) | **Artigos excelentes** | Artigos | Algebra Booleana | Desafios de HTML e CSS | Desenvolvimento de jogos | Exercícios de programação | Cursos |
-| [*Coursera](https://www.coursera.org) | **Cursos pagos e gratuitos** | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
-| [*Crescer com Google (grow with google)](https://grow.google/intl/pt/) | **Cursos gratuitos** | UX Design | Cybersegurança | Apoio Técnico Google| Gestão de projetos | Marketing Digital | IA |
-| [*Cubos Academy](https://cubos.academy/#cursos) | **Bootcamps e cursos pagos e gratuitos** | Desenvolvimento de Software | Análise de Dados | Figma | Java | Python | Bootcamps |
-| [*Cursa](https://cursa.app/pt) | **Cursos gratuitos** | TI e Software | Administração e Negócios | Idiomas | Saúde | Vestibulares | Musicais |
-| [*Curso de Idiomas Mairo Vergara](https://curso.mairovergara.com/) | **Cursos de idiomas gratuitos por 27 aulas** | Inglês | Francês | Espanhol | Blogs | Comunidade no site | Metodologia própria |
-| [*Curso Em Video](https://www.cursoemvideo.com/) | **Cursos gratuitos**| Lógica de Programação | Redes | Hardware | Programação | Inglês | Banco de Dados |
-| [*DevDocs](https://devdocs.io) | **Documentação rica** | Documentação de linguagens | Documentação JDK | Documentação JavaScript | Documentação HTML e CSS | Documentação Python | Documentação C, C++ e C# |
-| [*Developer Mozilla](https://developer.mozilla.org/pt-BR/) | **Documentações e guias de estudo** | Documentação | Guias de aprendizado | HTML | CSS | JavaScript | Web APIs |
+| *[Cisco Skill For All](https://skillsforall.com/) | **Cursos gratuitos** | Python | cyberSegurança | Networking (redes) | Ciência de dados | IA | Certificações |
+| *[Codeacademy](https://www.codecademy.com/) | **Cursos gratuitos** | Desenvolvimento Web | Ciência de Dados | Ciência da Computação | Desenvolvimento de Jogos | IA | Desenvolvimento Mobile |
+| *[Computer Science Master](https://www.computersciencemaster.com.br/) | **Artigos excelentes** | Artigos | Algebra Booleana | Desafios de HTML e CSS | Desenvolvimento de jogos | Exercícios de programação | Cursos |
+| *[Coursera](https://www.coursera.org) | **Cursos pagos e gratuitos** | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
+| *[Crescer com Google (grow with google)](https://grow.google/intl/pt/) | **Cursos gratuitos** | UX Design | Cybersegurança | Apoio Técnico Google| Gestão de projetos | Marketing Digital | IA |
+| *[Cubos Academy](https://cubos.academy/#cursos) | **Bootcamps e cursos pagos e gratuitos** | Desenvolvimento de Software | Análise de Dados | Figma | Java | Python | Bootcamps |
+| *[Cursa](https://cursa.app/pt) | **Cursos gratuitos** | TI e Software | Administração e Negócios | Idiomas | Saúde | Vestibulares | Musicais |
+| *[Curso de Idiomas Mairo Vergara](https://curso.mairovergara.com/) | **Cursos de idiomas gratuitos por 27 aulas** | Inglês | Francês | Espanhol | Blogs | Comunidade no site | Metodologia própria |
+| *[Curso Em Video](https://www.cursoemvideo.com/) | **Cursos gratuitos**| Lógica de Programação | Redes | Hardware | Programação | Inglês | Banco de Dados |
+| *[DevDocs](https://devdocs.io) | **Documentação rica** | Documentação de linguagens | Documentação JDK | Documentação JavaScript | Documentação HTML e CSS | Documentação Python | Documentação C, C++ e C# |
+| *[Developer Mozilla](https://developer.mozilla.org/pt-BR/) | **Documentações e guias de estudo** | Documentação | Guias de aprendizado | HTML | CSS | JavaScript | Web APIs |
 | [DevMedia](https://www.devmedia.com.br/) | **Cursos pagos e gratuitos** | Lógica de Programação | HTML e CSS | JavaScript | Frameworks | Banco de Dados | Artigos |
-| [*Digital Innovation One](https://web.dio.me/home) | **Cursos e Bootcamps pagos e gratuitos** | Java | Python | AWS | Cybersegurança | .NET | Certificações |
-| [*Edx](https://www.edx.org/) | **Cursos pagos e gratuitos** | Ciência da Computação | Linguagens/idiomas | Ciência ded Dados | Administração e Negócios | Engenharia | Humanidades |
-| [*Escola do Trabalhador 4.0](https://ead.escoladotrabalhador40.com.br/) | **Cursos gratuitos** | Office 365 | Finanças | Programação | Computação em Nuvem | Produtividade | IA |
-| [*Escola Virtual .gov](https://www.escolavirtual.gov.br/) | **Cursos gratuitos** | Gestão Pública | Gestão de Pessoas | Desenvolvimento Pessoal | TI | Educação e Docência | Saúde |
-| [*Eucapacito](https://www.eucapacito.com.br/) | **Cursos gratuitos** | Lógica de Programação | Empreendorismo | Programação | Computação em Nuvem | Banco de Dados | IA |
+| *[Digital Innovation One](https://web.dio.me/home) | **Cursos e Bootcamps pagos e gratuitos** | Java | Python | AWS | Cybersegurança | .NET | Certificações |
+| *[Edx](https://www.edx.org/) | **Cursos pagos e gratuitos** | Ciência da Computação | Linguagens/idiomas | Ciência ded Dados | Administração e Negócios | Engenharia | Humanidades |
+| *[Escola do Trabalhador 4.0](https://ead.escoladotrabalhador40.com.br/) | **Cursos gratuitos** | Office 365 | Finanças | Programação | Computação em Nuvem | Produtividade | IA |
+| *[Escola Virtual .gov](https://www.escolavirtual.gov.br/) | **Cursos gratuitos** | Gestão Pública | Gestão de Pessoas | Desenvolvimento Pessoal | TI | Educação e Docência | Saúde |
+| *[Eucapacito](https://www.eucapacito.com.br/) | **Cursos gratuitos** | Lógica de Programação | Empreendorismo | Programação | Computação em Nuvem | Banco de Dados | IA |
 | [FGV](https://educacao-executiva.fgv.br/cursos/online) | **Cursos gratuitos** | Educação e Humanidades | Economia e Finanças | Gestão de Setores | Relações Internacionais | Tecnologia e Ciência de Dados | Liderança e pessoas |
-| [*FreeCodeCamp](https://www.freecodecamp.org/) | **Cursos gratuitos** | HTML & CSS | JavaScript | Python | Banco de Dados | Frameworks | Linguagem Legado |
-| [*Fundação Bradesco](https://www.ev.org.br/) | **Cursos gratuitos** | Desenvolvimento Pessoal | Desenvolvimento Profissional | Programação | Metodologias de Aprendizagem | Negócios e Inovação | Tecnologia da Informação |
-| [*Fundação Estudar NaPratica/Fora/Liderança](https://www.estudar.org.br/) | **Cursos gratuitos e oportunidades de estudo** | CC50 - CS50 em português com certificado | Desenvolvimento Pessoal | Preparatórios | Comunicação Interpessoal | Produtividade | Vagas e Processos de emprego |
-| [*GeeksForGeeks](https://www.geeksforgeeks.org/) | **Artigos excelentes** | JavaScript | Java | Python | Tutoriais | Puzzles | Artigos |
+| *[FreeCodeCamp](https://www.freecodecamp.org/) | **Cursos gratuitos** | HTML & CSS | JavaScript | Python | Banco de Dados | Frameworks | Linguagem Legado |
+| *[Fundação Bradesco](https://www.ev.org.br/) | **Cursos gratuitos** | Desenvolvimento Pessoal | Desenvolvimento Profissional | Programação | Metodologias de Aprendizagem | Negócios e Inovação | Tecnologia da Informação |
+| *[Fundação Estudar NaPratica/Fora/Liderança](https://www.estudar.org.br/) | **Cursos gratuitos e oportunidades de estudo** | CC50 - CS50 em português com certificado | Desenvolvimento Pessoal | Preparatórios | Comunicação Interpessoal | Produtividade | Vagas e Processos de emprego |
+| *[GeeksForGeeks](https://www.geeksforgeeks.org/) | **Artigos excelentes** | JavaScript | Java | Python | Tutoriais | Puzzles | Artigos |
 | [Google for Developers](https://developers.google.com/learn?hl=pt-br) | **Cursos gratuitos** | Desenvolvimento WEB | Desenvolvimento Mobile | Ciência de dados | Desenvolvimento de Jogos | Redes | IA |
-| [*HrBrCursos](https://www.hrbrcursos.com/) | **Cursos gratuitos** | Informática | Redes de Computadores | Endereçamento IP | Sistema Operacional | Montagem e Manuntenção de Hardware | Cybersegurança |
-| [*Harvard CS50](https://cs50.harvard.edu/x/2024/) | **Cursos gratuitos** | Scratch | Algoritmos | Estrutura de Dados | IA | Programação e desenvolvimento | Cybersesgurança |
+| *[HrBrCursos](https://www.hrbrcursos.com/) | **Cursos gratuitos** | Informática | Redes de Computadores | Endereçamento IP | Sistema Operacional | Montagem e Manuntenção de Hardware | Cybersegurança |
+| *[Harvard CS50](https://cs50.harvard.edu/x/2024/) | **Cursos gratuitos** | Scratch | Algoritmos | Estrutura de Dados | IA | Programação e desenvolvimento | Cybersesgurança |
 | [IBM Skillsbuild](https://skillsbuild.org/pt-br) | **Cursos Gratuitos** | Desenvolvimento WEB | Ciência de Dados | Computação em nuvem | IA | Sustentabilidade | Cybersegurança |
-| [*Khan Academy](https://pt.khanacademy.org/) | **Estudos fundamentais, médios e acadêmicos** | Física | Matemática | Cybersegurança | Programação | Inglês | Ciências |
-| [*Loiane Training](https://loiane.training/curso/phonegap-apache-cordova) | **Cursos gratuitos** | Java Básico & Intermediário | Estrutura de Dados com Java | Angular | CRUD Angular + Spring| Ext JS 4 | Phonegap e Apache Cordova |
+| *[Khan Academy](https://pt.khanacademy.org/) | **Estudos fundamentais, médios e acadêmicos** | Física | Matemática | Cybersegurança | Programação | Inglês | Ciências |
+| *[Loiane Training](https://loiane.training/curso/phonegap-apache-cordova) | **Cursos gratuitos** | Java Básico & Intermediário | Estrutura de Dados com Java | Angular | CRUD Angular + Spring| Ext JS 4 | Phonegap e Apache Cordova |
 | [Lumina - UFRGS](https://lumina.ufrgs.br/) | **Cursos gratuitos** | Ciências da Saúde e Biológicas | Ciências Exatas e da Terra | Ciências Humanas e Sociais | Linguistica e Letras| Artes | Tecnológicas e Indústria Criativa |
-| [*Microsoft Learn](https://learn.microsoft.com/pt-br/) | **Cursos gratuitos** | Office 365 | Git e Github | Programação | Cybersegurança | Computação em Nuvem com Azure | IA |
+| *[Microsoft Learn](https://learn.microsoft.com/pt-br/) | **Cursos gratuitos** | Office 365 | Git e Github | Programação | Cybersegurança | Computação em Nuvem com Azure | IA |
 | [Mooqueca - UFES](https://mooc.ufes.br/) | **Cursos gratuitos** | Idiomas | Saúde e Bem Estar | Educação | Comunicação e Marketing | Finanças e Vendas | Ciências Exatas |
 | [Omie Academy](https://academy.omie.com.br/) | **Cursos gratuitos** | Comunicação e Oratória | Empreendorismo | Vendas | Marketing | E-commerce | Liderança e Gestão de Pessoas |
-| [*Oracle MyLearn](https://mylearn.oracle.com/) | **Documentação, certificação e cursos Java** | Documentações | Infraestrutura | Infraestrutura em Nuvem | Java | Banco de Dados SQL e Oracle Database | Certificações |
-| [*Pensar Cursos](https://www.pensarcursos.com.br/) | **Cursos gratuitos** | Desenvolvimento Pessoal | Marketing e Vendas | Tecnologia da Informação | Gestão e Liderança | Medicina e Saúde | Psicologia |
+| *[Oracle MyLearn](https://mylearn.oracle.com/) | **Documentação, certificação e cursos Java** | Documentações | Infraestrutura | Infraestrutura em Nuvem | Java | Banco de Dados SQL e Oracle Database | Certificações |
+| *[Pensar Cursos](https://www.pensarcursos.com.br/) | **Cursos gratuitos** | Desenvolvimento Pessoal | Marketing e Vendas | Tecnologia da Informação | Gestão e Liderança | Medicina e Saúde | Psicologia |
 | [Rocketseat](https://app.rocketseat.com.br/) | **Cursos pagos e gratuitos** | C | JavaScript | Java | Front-end e Back-end | Web Fullstack | Python |
-| [*Santander Open Academy](https://www.santanderopenacademy.com/en/index.html) | **Cursos gratuitos** | Saúde e bem-estar | Linguagens/idiomas | Bootcamps | Negócios | Intercâmbio | Tecnologia |
+| *[Santander Open Academy](https://www.santanderopenacademy.com/en/index.html) | **Cursos gratuitos** | Saúde e bem-estar | Linguagens/idiomas | Bootcamps | Negócios | Intercâmbio | Tecnologia |
 | [SEBRAE](https://sebrae.com.br/sites/PortalSebrae/cursosonline) | **Cursos gratuitos** | Alimentação | Desenvolvimento Pessoal | Gestão Empresarial | Marketing Digital | Soluções Ágeis | Comunicação |
 | [Senai Play](https://play.senai.br/) | **Cursos gratuitos** | TI | Alimentos e bebidas | automação e mecatrônica | Automotiva | Eletroeletrônica | Telecomunicações |
 | [Trybe](https://www.betrybe.com/) | **Cursos pagos e gratuitos** | Lógica de Programação | HTML | CSS | JavaScript | Desenvolvimento Web  | IA |
-| [*Udemy](https://www.udemy.com/pt/) | **Cursos pagos e gratuitos** |Desenvolvimento Pessoal | Negócios | TI, desenvolvimento e Software | Música | Marketing | Design |
+| *[Udemy](https://www.udemy.com/pt/) | **Cursos pagos e gratuitos** |Desenvolvimento Pessoal | Negócios | TI, desenvolvimento e Software | Música | Marketing | Design |
 | [Unicamp - GGTE](https://moocs.ggte.unicamp.br/) | **Cursos gratuitos** | Lógica de Programação | Produção de textos | Programação Android | UX e UI Design | Desenvolvimento Web | Edição e Tratamento de Imagens |
-| [*Vai Na Web](https://vainaweb.com.br/carreiras) | **Cursos síncronos gratuitos** | Desenvolvimento Front-end | Desenvolvimento Mobile | Desenvolvimento Back-end | Ciência de Dados | E-commerce | Blog |
-| [*W3School](https://www.w3schools.com/) | **Artigos e exercícios excelentes** | HTML e CSS | JavaScript | Referências | Artigos | Tutoriais | Exercícios e quizes |
-| [*Estudonauta](https://www.estudonauta.com/) | **Cursos Pagos** | HTML e CSS | Programação | Hardware | Wordpress | Eletrônica | Kotlin |
+| *[Vai Na Web](https://vainaweb.com.br/carreiras) | **Cursos síncronos gratuitos** | Desenvolvimento Front-end | Desenvolvimento Mobile | Desenvolvimento Back-end | Ciência de Dados | E-commerce | Blog |
+| *[W3School](https://www.w3schools.com/) | **Artigos e exercícios excelentes** | HTML e CSS | JavaScript | Referências | Artigos | Tutoriais | Exercícios e quizes |
+| *[Estudonauta](https://www.estudonauta.com/) | **Cursos Pagos** | HTML e CSS | Programação | Hardware | Wordpress | Eletrônica | Kotlin |
 | [DataBricks](https://www.databricks.com/learn/training/home) | **Cursos Pagos e gratuitos** | Fundamentos de DataBricks | Banco de Dados | Python | Machine Learning | IA | Arquitetura de Dados |
 
 
