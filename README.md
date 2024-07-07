@@ -40,6 +40,7 @@ _O sinal de " * " significa que eu recomendo fortemente o site porque já estude
 | *[Cursa](https://cursa.app/pt) | **Cursos gratuitos** | TI e Software | Administração e Negócios | Idiomas | Saúde | Vestibulares | Musicais |
 | *[Curso de Idiomas Mairo Vergara](https://curso.mairovergara.com/) | **Cursos de idiomas gratuitos por 27 aulas** | Inglês | Francês | Espanhol | Blogs | Comunidade no site | Metodologia própria |
 | *[Curso Em Video](https://www.cursoemvideo.com/) | **Cursos gratuitos**| Lógica de Programação | Redes | Hardware | Programação | Inglês | Banco de Dados |
+| [DataBricks](https://www.databricks.com/learn/training/home) | **Cursos Pagos e gratuitos** | Fundamentos de DataBricks | Banco de Dados | Python | Machine Learning | IA | Arquitetura de Dados |
 | *[DevDocs](https://devdocs.io) | **Documentação rica** | Documentação de linguagens | Documentação JDK | Documentação JavaScript | Documentação HTML e CSS | Documentação Python | Documentação C, C++ e C# |
 | *[Developer Mozilla](https://developer.mozilla.org/pt-BR/) | **Documentações e guias de estudo** | Documentação | Guias de aprendizado | HTML | CSS | JavaScript | Web APIs |
 | [DevMedia](https://www.devmedia.com.br/) | **Cursos pagos e gratuitos** | Lógica de Programação | HTML e CSS | JavaScript | Frameworks | Banco de Dados | Artigos |
@@ -47,6 +48,7 @@ _O sinal de " * " significa que eu recomendo fortemente o site porque já estude
 | *[Edx](https://www.edx.org/) | **Cursos pagos e gratuitos** | Ciência da Computação | Linguagens/idiomas | Ciência ded Dados | Administração e Negócios | Engenharia | Humanidades |
 | *[Escola do Trabalhador 4.0](https://ead.escoladotrabalhador40.com.br/) | **Cursos gratuitos** | Office 365 | Finanças | Programação | Computação em Nuvem | Produtividade | IA |
 | *[Escola Virtual .gov](https://www.escolavirtual.gov.br/) | **Cursos gratuitos** | Gestão Pública | Gestão de Pessoas | Desenvolvimento Pessoal | TI | Educação e Docência | Saúde |
+| *[Estudonauta](https://www.estudonauta.com/) | **Cursos Pagos** | HTML e CSS | Programação | Hardware | Wordpress | Eletrônica | Kotlin |
 | *[Eucapacito](https://www.eucapacito.com.br/) | **Cursos gratuitos** | Lógica de Programação | Empreendorismo | Programação | Computação em Nuvem | Banco de Dados | IA |
 | [FGV](https://educacao-executiva.fgv.br/cursos/online) | **Cursos gratuitos** | Educação e Humanidades | Economia e Finanças | Gestão de Setores | Relações Internacionais | Tecnologia e Ciência de Dados | Liderança e pessoas |
 | *[FreeCodeCamp](https://www.freecodecamp.org/) | **Cursos gratuitos** | HTML & CSS | JavaScript | Python | Banco de Dados | Frameworks | Linguagem Legado |
@@ -74,8 +76,6 @@ _O sinal de " * " significa que eu recomendo fortemente o site porque já estude
 | [Unicamp - GGTE](https://moocs.ggte.unicamp.br/) | **Cursos gratuitos** | Lógica de Programação | Produção de textos | Programação Android | UX e UI Design | Desenvolvimento Web | Edição e Tratamento de Imagens |
 | *[Vai Na Web](https://vainaweb.com.br/carreiras) | **Cursos síncronos gratuitos** | Desenvolvimento Front-end | Desenvolvimento Mobile | Desenvolvimento Back-end | Ciência de Dados | E-commerce | Blog |
 | *[W3School](https://www.w3schools.com/) | **Artigos e exercícios excelentes** | HTML e CSS | JavaScript | Referências | Artigos | Tutoriais | Exercícios e quizes |
-| *[Estudonauta](https://www.estudonauta.com/) | **Cursos Pagos** | HTML e CSS | Programação | Hardware | Wordpress | Eletrônica | Kotlin |
-| [DataBricks](https://www.databricks.com/learn/training/home) | **Cursos Pagos e gratuitos** | Fundamentos de DataBricks | Banco de Dados | Python | Machine Learning | IA | Arquitetura de Dados |
 
 
 ## Canais no Youtube (tech)
