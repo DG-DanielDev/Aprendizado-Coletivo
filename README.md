@@ -52,6 +52,7 @@ _O sinal de " * " significa que eu recomendo fortemente o site porque já estude
 | *[Eucapacito](https://www.eucapacito.com.br/) | **Cursos gratuitos** | Lógica de Programação | Empreendorismo | Programação | Computação em Nuvem | Banco de Dados | IA |
 | [FGV](https://educacao-executiva.fgv.br/cursos/online) | **Cursos gratuitos** | Educação e Humanidades | Economia e Finanças | Gestão de Setores | Relações Internacionais | Tecnologia e Ciência de Dados | Liderança e pessoas |
 | *[FreeCodeCamp](https://www.freecodecamp.org/) | **Cursos gratuitos** | HTML & CSS | JavaScript | Python | Banco de Dados | Frameworks | Linguagem Legado |
+| *[Free Educa - Livros](https://github.com/free-educa/free-livros) | **Repositório de livros gratuitos** | Algoritmos | Hardware e Software | Desenvolvimento de software (backend e frontend) | Ciência de Dados | Programação | Design |
 | *[Fundação Bradesco](https://www.ev.org.br/) | **Cursos gratuitos** | Desenvolvimento Pessoal | Desenvolvimento Profissional | Programação | Metodologias de Aprendizagem | Negócios e Inovação | Tecnologia da Informação |
 | *[Fundação Estudar NaPratica/Fora/Liderança](https://www.estudar.org.br/) | **Cursos gratuitos e oportunidades de estudo** | CC50 - CS50 em português com certificado | Desenvolvimento Pessoal | Preparatórios | Comunicação Interpessoal | Produtividade | Vagas e Processos de emprego |
 | *[GeeksForGeeks](https://www.geeksforgeeks.org/) | **Artigos excelentes** | JavaScript | Java | Python | Tutoriais | Puzzles | Artigos |
