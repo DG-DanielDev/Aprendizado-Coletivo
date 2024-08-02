@@ -45,8 +45,8 @@ _O sinal de " * " significa que eu recomendo fortemente o site porque já estude
 | *[Developer Mozilla](https://developer.mozilla.org/pt-BR/) | **Documentações e guias de estudo** | Documentação | Guias de aprendizado | HTML | CSS | JavaScript | Web APIs |
 | [DevMedia](https://www.devmedia.com.br/) | **Cursos pagos e gratuitos** | Lógica de Programação | HTML e CSS | JavaScript | Frameworks | Banco de Dados | Artigos |
 | *[Digital Innovation One](https://web.dio.me/home) | **Cursos e Bootcamps pagos e gratuitos** | Java | Python | AWS | Cybersegurança | .NET | Certificações |
-| *[Edx](https://www.edx.org/) | **Cursos pagos e gratuitos** | Ciência da Computação | Linguagens/idiomas | Ciência ded Dados | Administração e Negócios | Engenharia | Humanidades |
-| *[Escola do Trabalhador 4.0](https://ead.escoladotrabalhador40.com.br/) | **Cursos gratuitos** | Office 365 | Finanças | Programação | Computação em Nuvem | Produtividade | IA |
+| *[Edx](https://www.edx.org/) | **Cursos pagos e gratuitos** | Ciência da Computação | Linguagens/idiomas | Ciência dd Dados | Administração e Negócios | Engenharia | Humanidades |
+| *[Escola do Trabalhador 4.0](https://ead.escoladotrabalhador40.com.br/) | **Cursos gratuitos** | Office 365 | Finanças | Programação | Computação em Nuvem | Dynamics 365 | IA |
 | *[Escola Virtual .gov](https://www.escolavirtual.gov.br/) | **Cursos gratuitos** | Gestão Pública | Gestão de Pessoas | Desenvolvimento Pessoal | TI | Educação e Docência | Saúde |
 | *[Estudonauta](https://www.estudonauta.com/) | **Cursos Pagos** | HTML e CSS | Programação | Hardware | Wordpress | Eletrônica | Kotlin |
 | *[Eucapacito](https://www.eucapacito.com.br/) | **Cursos gratuitos** | Lógica de Programação | Empreendorismo | Programação | Computação em Nuvem | Banco de Dados | IA |
