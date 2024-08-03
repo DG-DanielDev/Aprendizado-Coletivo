@@ -31,13 +31,13 @@ _O sinal de " * " significa que eu recomendo fortemente o site porque já estude
 | *[Aprenda Mais .gov](https://aprendamais.mec.gov.br/) | **Cursos gratuitos** | Ambiente e Saúde | Informática e Comunicação | Infraestrutura | Produção Alimentícia | Segurança | Idiomas, línguas e literaturas | 
 | *[Cambridge English](https://www.cambridgeenglish.org/) | **Inglês para estudo** | Atividades de inglês | Teste de inglês | Exame preparatório para certificação de inglês | Dicionário em inglês | Aprendizado em inglês | Blog |
 | [Cisco Networking Academy](https://www.netacad.com/) | **Cursos gratuitos** | Programação | Cybersegurança | Networking (redes) | Ciência de Dados | IoT | Infraestrutura e Automação |
-| *[Cisco Skill For All](https://skillsforall.com/) | **Cursos gratuitos** | Python | cyberSegurança | Networking (redes) | Ciência de dados | IA | Certificações |
+| *[Cisco Skill For All](https://skillsforall.com/) | **Cursos gratuitos** | Python | CyberSegurança | Networking (redes) | Ciência de dados | IA | Certificações |
 | *[Codeacademy](https://www.codecademy.com/) | **Cursos gratuitos** | Desenvolvimento Web | Ciência de Dados | Ciência da Computação | Desenvolvimento de Jogos | IA | Desenvolvimento Mobile |
 | *[Computer Science Master](https://www.computersciencemaster.com.br/) | **Artigos excelentes** | Artigos | Algebra Booleana | Desafios de HTML e CSS | Desenvolvimento de jogos | Exercícios de programação | Cursos |
-| *[Coursera](https://www.coursera.org) | **Cursos pagos e gratuitos** | conteúdo1 | conteúdo2 | conteúdo3 | conteúdo4 | conteúdo5 | conteúdo6 |
+| *[Coursera](https://www.coursera.org) | **Cursos pagos e gratuitos** | Ciência de Dados | Negócios | Desenvolvimento Pessoal | Tecnologia da Informação | Saúde | Idiomas |
 | *[Crescer com Google (grow with google)](https://grow.google/intl/pt/) | **Cursos gratuitos** | UX Design | Cybersegurança | Apoio Técnico Google| Gestão de projetos | Marketing Digital | IA |
 | *[Cubos Academy](https://cubos.academy/#cursos) | **Bootcamps e cursos pagos e gratuitos** | Desenvolvimento de Software | Análise de Dados | Figma | Java | Python | Bootcamps |
-| *[Cursa](https://cursa.app/pt) | **Cursos gratuitos** | TI e Software | Administração e Negócios | Idiomas | Saúde | Vestibulares | Musicais |
+| *[Cursa](https://cursa.app/pt) | **Cursos gratuitos** | TI e Software | Administração e Negócios | Idiomas | Saúde | Vestibulares | Música |
 | *[Curso de Idiomas Mairo Vergara](https://curso.mairovergara.com/) | **Cursos de idiomas gratuitos por 27 aulas** | Inglês | Francês | Espanhol | Blogs | Comunidade no site | Metodologia própria |
 | *[Curso Em Video](https://www.cursoemvideo.com/) | **Cursos gratuitos**| Lógica de Programação | Redes | Hardware | Programação | Inglês | Banco de Dados |
 | [DataBricks](https://www.databricks.com/learn/training/home) | **Cursos Pagos e gratuitos** | Fundamentos de DataBricks | Banco de Dados | Python | Machine Learning | IA | Arquitetura de Dados |
