@@ -60,7 +60,7 @@ _O sinal de " * " significa que eu recomendo fortemente o site porque já estude
 | *[HrBrCursos](https://www.hrbrcursos.com/) | **Cursos gratuitos** | Informática | Redes de Computadores | Endereçamento IP | Sistema Operacional | Montagem e Manuntenção de Hardware | Cybersegurança |
 | *[Harvard CS50](https://cs50.harvard.edu/x/2024/) | **Cursos gratuitos** | Scratch | Algoritmos | Estrutura de Dados | IA | Programação e desenvolvimento | Cybersesgurança |
 | [IBM Skillsbuild](https://skillsbuild.org/pt-br) | **Cursos Gratuitos** | Desenvolvimento WEB | Ciência de Dados | Computação em nuvem | IA | Sustentabilidade | Cybersegurança |
-| *[Khan Academy](https://pt.khanacademy.org/) | **Estudos fundamentais, médios e acadêmicos** | Física | Matemática | Cybersegurança | Programação | Inglês | Ciências |
+| *[Khan Academy](https://pt.khanacademy.org/) | **Estudos fundamentais, médios e acadêmicos** | Física | Matemática | Cybersegurança | Programação | Economia | Ciências |
 | *[Loiane Training](https://loiane.training/curso/phonegap-apache-cordova) | **Cursos gratuitos** | Java Básico & Intermediário | Estrutura de Dados com Java | Angular | CRUD Angular + Spring| Ext JS 4 | Phonegap e Apache Cordova |
 | [Lumina - UFRGS](https://lumina.ufrgs.br/) | **Cursos gratuitos** | Ciências da Saúde e Biológicas | Ciências Exatas e da Terra | Ciências Humanas e Sociais | Linguistica e Letras| Artes | Tecnológicas e Indústria Criativa |
 | *[Microsoft Learn](https://learn.microsoft.com/pt-br/) | **Cursos gratuitos** | Office 365 | Git e Github | Programação | Cybersegurança | Computação em Nuvem com Azure | IA |
