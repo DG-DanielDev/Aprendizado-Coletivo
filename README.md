@@ -28,7 +28,7 @@ _O sinal de " * " significa que eu recomendo fortemente o site porque já estude
 
 | Plataforma | Conteúdo principal |||||||
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Academy Fluig](https://academy.fluig.com/ | **Cursos gratuitos de Fluig Studio** | HTML | CSS | JavaScript | Negócios | Inteligência de Negócios | Infraestrutura |
+| [Academy Fluig](https://academy.fluig.com/) | **Cursos gratuitos de Fluig Studio** | HTML | CSS | JavaScript | Negócios | Inteligência de Negócios | Infraestrutura |
 | *[Aprenda Mais .gov](https://aprendamais.mec.gov.br/) | **Cursos gratuitos** | Ambiente e Saúde | Informática e Comunicação | Infraestrutura | Produção Alimentícia | Segurança | Idiomas, línguas e literaturas | 
 | *[Cambridge English](https://www.cambridgeenglish.org/) | **Inglês para estudo** | Atividades de inglês | Teste de inglês | Exame preparatório para certificação de inglês | Dicionário em inglês | Aprendizado em inglês | Blog |
 | [Cisco Networking Academy](https://www.netacad.com/) | **Cursos gratuitos** | Programação | Cybersegurança | Networking (redes) | Ciência de Dados | IoT | Infraestrutura e Automação |
