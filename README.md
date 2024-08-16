@@ -28,6 +28,7 @@ _O sinal de " * " significa que eu recomendo fortemente o site porque já estude
 
 | Plataforma | Conteúdo principal |||||||
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| [Academy Fluig](https://academy.fluig.com/ | **Cursos gratuitos de Fluig Studio** | HTML | CSS | JavaScript | Negócios | Inteligência de Negócios | Infraestrutura |
 | *[Aprenda Mais .gov](https://aprendamais.mec.gov.br/) | **Cursos gratuitos** | Ambiente e Saúde | Informática e Comunicação | Infraestrutura | Produção Alimentícia | Segurança | Idiomas, línguas e literaturas | 
 | *[Cambridge English](https://www.cambridgeenglish.org/) | **Inglês para estudo** | Atividades de inglês | Teste de inglês | Exame preparatório para certificação de inglês | Dicionário em inglês | Aprendizado em inglês | Blog |
 | [Cisco Networking Academy](https://www.netacad.com/) | **Cursos gratuitos** | Programação | Cybersegurança | Networking (redes) | Ciência de Dados | IoT | Infraestrutura e Automação |
@@ -42,6 +43,7 @@ _O sinal de " * " significa que eu recomendo fortemente o site porque já estude
 | *[Curso Em Video](https://www.cursoemvideo.com/) | **Cursos gratuitos**| Lógica de Programação | Redes | Hardware | Programação | Inglês | Banco de Dados |
 | [DataBricks](https://www.databricks.com/learn/training/home) | **Cursos Pagos e gratuitos** | Fundamentos de DataBricks | Banco de Dados | Python | Machine Learning | IA | Arquitetura de Dados |
 | *[DevDocs](https://devdocs.io) | **Documentação rica** | Documentação de linguagens | Documentação JDK | Documentação JavaScript | Documentação HTML e CSS | Documentação Python | Documentação C, C++ e C# |
+| *[DevDojo Academy](https://devdojo.academy/) | **Cursos Gratuitos pelo YouTube** | Java | Springboot | AWS | JavaScript | Reactor | Life Skills |
 | *[Developer Mozilla](https://developer.mozilla.org/pt-BR/) | **Documentações e guias de estudo** | Documentação | Guias de aprendizado | HTML | CSS | JavaScript | Web APIs |
 | [DevMedia](https://www.devmedia.com.br/) | **Cursos pagos e gratuitos** | Lógica de Programação | HTML e CSS | JavaScript | Frameworks | Banco de Dados | Artigos |
 | *[Digital Innovation One](https://web.dio.me/home) | **Cursos e Bootcamps pagos e gratuitos** | Java | Python | AWS | Cybersegurança | .NET | Certificações |
@@ -94,18 +96,25 @@ Além de ser realmente muito frutífero adquirir novos conhecimentos e habilidad
 
 - [Fabio Akita](https://www.youtube.com/@Akitando)
 
+- [DevDojo](https://youtube.com/@devdojobrasil)
+
 ## 🎧Spotify
 
 E que tal alguns podcasts para escutar?
 
 - [Protagonistas Tech](https://open.spotify.com/show/5kBWlcfQXmdHR8By2A9C5X?si=304d8181d99c4725)
+  - Thaíssa Candella, com sua alta habilidade de comunicação e habilidades técnicas, busca motivar as pessoas, principalmente (mas não exclusivamente) as mulheres que precisam de um up de carreia ou de vivência pessoal. Com diferentes pessoas compartilhando seu conhecimento e vivências no podcast, grandes experiências são reunidas.
 - [Curso em Video Experiente](https://open.spotify.com/show/5KHDGT9PeWAqX7Qstoci1y?si=1346dd5318a24d50)
+  - Do mesmo criador do Curso em Vídeo, Gustavo Guanabara traz, a cada episódio, um convidado transbordando de experiências sobre a área da tecnologia para que seus ouvintes possam conhecer um pouco mais dos prós e contras da área. Nesse podcast, as softskills são aquelas habilidades que mais são consideradas, e não apenas aquele livre cheio de palavras estranhas.
 - [Olá, Gabs!](https://open.spotify.com/show/094hX276k5lFzM8Ig2xpsl?si=e9cfee2139a54605)
+  - Com histórias reflexivas e intrigantes, Gabs Ferreira é o host desse podcast de tecnologia, onde o mesmo convida várias pessoas, da área de tecnologia ou não, para discutir sobre um assunto diferente a cada episódio.
 - [FreeCodeCamp Podcast em Português](https://open.spotify.com/show/70m92At5oht4zY4f87lLEE?si=1195056447c84fbd)
-- [Compilado Código do Fonte TV](https://open.spotify.com/show/7kLgm2CDG4aontuQOluFwb?si=d9298f1e1b434186)
+  - Um podcast criado originalmente em inglês pelo fundador do FreeCodeCamp, Quincy Larson, introduz diversos profissionais da área de tecnologia para falar sobre as suas vivências no mercado de trabalho e sua vivência cotidiana. O Host desse Podcast é a Nielda Karla.
+- [Compilado do Código Fonte TV](https://open.spotify.com/show/7kLgm2CDG4aontuQOluFwb?si=d9298f1e1b434186)
+  - Criado pelo casal Código Fonte (Casal CDF), o compilado código fonte é um podcast onde o casal reúne diversas noticias e novidades sobre tecnologia e mostra um pouco da visão deles para tais novidades. Ótimo para se escutar quando não tem temlo para rolar pelos infinitos textos dos jornais e campos de notícia.
 
 
 ## Futuras implementações:
 
 
-- Adicionar informações relevantes sobre os canais e podcasts endereçados.
+- Adicionar informações relevantes sobre os canais endereçados.
